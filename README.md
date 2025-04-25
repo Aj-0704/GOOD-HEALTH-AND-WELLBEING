@@ -1,53 +1,53 @@
-# GOOD-HEALTH-AND-WELLBEING
-🧠 The Decoder - Your Personal Health Companion
-The Decoder presents, a comprehensive digital health and wellness platform built to help individuals take control of their well-being. Whether it's managing your daily routine, planning meals, reducing stress, or tracking your fitness goals — we've got you covered!
-🚀 Project Overview
-The Decoder is designed to promote Good Health and Well-being — a crucial Sustainable Development Goal (SDG 3). Our platform brings together multiple health dimensions:
-•	Physical fitness
-•	Mental health
-•	Diet & nutrition
-•	Yoga & exercise
-All through an intelligent, user-friendly interface that personalizes your wellness journey.
-🎯 Key Features
-•	💬 AI-Powered Chatbot
-Get instant healthcare suggestions, self-improvement tips, and access to services — no more website surfing!
-•	🍱 Healthy Meal Planning
-Receive customized diet recommendations aligned with your goals.
-•	🧘 Yoga and Exercise Plans
-Follow guided yoga sessions, workouts, and therapy routines.
-•	⏰ Daily Routine & Reminders
-Stay on track with personalized daily goals and reminders.
-•	😌 Mental Health Support
-Tools for stress and anxiety relief, mindfulness, and sleep improvement.
-•	🦾Product for Better Wellbeing 
-Tools to build better physique and better lifestyle
-•	👥 Contact and Support
-24x7 help support.
-🧰 Technologies Used
-•	Frontend: HTML, CSS, JavaScript
-•	Backend: Node.js / php
-•	AI Chatbot: NLP-based assistance
-•	Database: Default browser database
-📦 Use Cases
-•	📊 Personal Health Tracking
-•	🏋️ Fitness Goal Setting
-•	🧠 Mental Health Management
-•	🌙 Sleep Quality Enhancement
-•	🍎 Diet & Nutrition Guidance
-•	🤝 Chronic Condition & Community Support
-💡 Unique Selling Points
-•	Premium plans
-1.	Live sessions
-2.	Physician consultation
-3.	Therapy 
-•	Simple, intuitive design for all user types
-•	End-to-end coverage of health: physical, mental, and emotional
-•	Products for body building
-👥 Team Members
-•	Agam Jain – Web Designing
-•	Kanishk Sonker – Data Research
-•	Satyam Kumar – Frontend
-•	Utkarsh Singh – Backend
+# GOOD-HEALTH-AND-WELLBEING <br>
+🧠 The Decoder - Your Personal Health Companion  <br>
+The Decoder presents, a comprehensive digital health and wellness platform built to help individuals take control of their well-being. Whether it's managing your daily routine, planning meals, reducing stress, or tracking your fitness goals — we've got you covered! <br>
+🚀 Project Overview <br>
+The Decoder is designed to promote Good Health and Well-being — a crucial Sustainable Development Goal (SDG 3). Our platform brings together multiple health dimensions: <br>
+•	Physical fitness <br>
+•	Mental health <br>
+•	Diet & nutrition <br>
+•	Yoga & exercise <br>
+All through an intelligent, user-friendly interface that personalizes your wellness journey. <br>
+🎯 Key Features <br>
+•	💬 AI-Powered Chatbot <br>
+Get instant healthcare suggestions, self-improvement tips, and access to services — no more website surfing! <br>
+•	🍱 Healthy Meal Planning <br>
+Receive customized diet recommendations aligned with your goals. <br>
+•	🧘 Yoga and Exercise Plans <br>
+Follow guided yoga sessions, workouts, and therapy routines. <br>
+•	⏰ Daily Routine & Reminders <br>
+Stay on track with personalized daily goals and reminders. <br>
+•	😌 Mental Health Support <br>
+Tools for stress and anxiety relief, mindfulness, and sleep improvement. <br>
+•	🦾Product for Better Wellbeing  <br>
+Tools to build better physique and better lifestyle <br>
+•	👥 Contact and Support <br>
+24x7 help support. <br>
+🧰 Technologies Used <br>
+•	Frontend: HTML, CSS, JavaScript <br>
+•	Backend: Node.js / php <br>
+•	AI Chatbot: NLP-based assistance <br>
+•	Database: Default browser database <br>
+📦 Use Cases <br>
+•	📊 Personal Health Tracking <br>
+•	🏋️ Fitness Goal Setting <br>
+•	🧠 Mental Health Management <br>
+•	🌙 Sleep Quality Enhancement <br>
+•	🍎 Diet & Nutrition Guidance <br>
+•	🤝 Chronic Condition & Community Support <br>
+💡 Unique Selling Points <br>
+•	Premium plans <br>
+1.	Live sessions <br>
+2.	Physician consultation <br>
+3.	Therapy  <br>
+•	Simple, intuitive design for all user types <br>
+•	End-to-end coverage of health: physical, mental, and emotional <br>
+•	Products for body building <br>
+👥 Team Members <br>
+•	Agam Jain – Web Designing <br>
+•	Kanishk Sonker – Data Research <br>
+•	Satyam Kumar – Frontend <br>
+•	Utkarsh Singh – Backend <br>
 
 
 •	Kanishk Sonker – Data Research
