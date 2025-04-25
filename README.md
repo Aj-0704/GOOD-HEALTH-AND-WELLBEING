@@ -48,10 +48,6 @@ Tools to build better physique and better lifestyle <br>
 •	Kanishk Sonker – Data Research <br>
 •	Satyam Kumar – Frontend <br>
 •	Utkarsh Singh – Backend <br>
-
-
-•	Kanishk Sonker – Data Research
-•	Utkarsh Singh – Backend
-🏁 Conclusion
-Good health is not just the absence of illness but thriving in every aspect of life. The Decoder empowers users to take proactive steps in their health journey. Join us in decoding wellness — one healthy habit at a time
+🏁 Conclusion <br>
+Good health is not just the absence of illness but thriving in every aspect of life. The Decoder empowers users to take proactive steps in their health journey. Join us in decoding wellness — one healthy habit at a time <br>
 
